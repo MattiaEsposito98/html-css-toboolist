@@ -30,10 +30,11 @@ body {
     
 }
 
-.section {
+.container2{
     background-color: azure;
     padding: 30px 100px;
     border-bottom: 1px solid #FFFFA9;
+
 }
 
 .add-task {
@@ -54,6 +55,7 @@ body {
 
 .menu{
     padding: 30px 100px;
+    background-color: azure;
 }
 main {
     padding: 30px 300px;
