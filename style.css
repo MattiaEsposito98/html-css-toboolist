@@ -14,8 +14,9 @@ html {
     padding-left: 20px;
     background-color: aliceblue;
 }
-body{
-    background-color: beige;
+
+body {
+    background-color: whitesmoke;
 }
 
 .container {
@@ -26,11 +27,12 @@ body{
 
 .title {
     vertical-align: middle;
+    
 }
 
 .section {
     background-color: azure;
-    padding: 30px 300px;
+    padding: 30px 100px;
     border-bottom: 1px solid #FFFFA9;
 }
 
@@ -50,6 +52,66 @@ body{
     padding: 5px;
 }
 
+.menu{
+    padding: 30px 100px;
+}
 main {
     padding: 30px 300px;
+}
+
+.positive {
+    background-color: green;
+}
+
+.negative {
+    background-color: red;
+}
+
+/* Bottoni */
+.editorial {
+    text-align: middle;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+}
+
+.q1goals {
+    text-align: middle;
+    background-color: blueviolet;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+}
+
+.recruiting {
+    text-align: middle;
+    background-color: seagreen;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+}
+
+.mobile{
+    text-align: middle;
+    background-color:darkgoldenrod;
+    border-radius: 10px;
+    color: white;
+    padding: 5px; 
+}
+
+.website{
+    text-align: middle;
+    background-color: pink;
+    border-radius: 10px;
+    color: white;
+    padding: 5px; 
+}
+
+.sales{
+    text-align: middle;
+    background-color: green;    
+    border-radius: 10px;
+    color: white;
+    padding: 5px; 
 }
